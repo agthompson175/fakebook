@@ -25,6 +25,12 @@ posts = [{
         'body': 'happy fourth of july lol',
         'author': 'Adam',
         'timestamp': '2021-07-04',
+}, 
+    {
+    'id': 5,
+        'body': 'lucas if you are reading this please give me a 5',
+        'author': 'anonymous',
+        'timestamp': '2021-07-06',
 }
 ]
 
